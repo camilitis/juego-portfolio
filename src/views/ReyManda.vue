@@ -35,7 +35,7 @@
     </template>
 
     <template v-slot:body>
-      <p>En orden, cada jugador tiene que apretar el botón y hacer lo que la tarjeta dice. El jugador que no lo cumpla tendrá que tomar la cantidad de tragos que se marca.</p>
+      <p>En orden, cada jugador tiene que apretar el botón y hacer lo que la tarjeta dice.</p>
     </template>
 
   </modal>

@@ -9,7 +9,7 @@
 </section>
 
 <footer>
-    Project made by <a href="https://camilaguerra.vercel.app/">Camila</a> | CSS by <a href="https://codepen.io/cassie-codes">Cassie Evans</a> | <a>Github repository</a>
+    Project made by <a href="https://camilaguerra.vercel.app/">Camila</a> | CSS by <a href="https://codepen.io/cassie-codes">Cassie Evans</a> | <a href="https://github.com/camilitis/juego-portfolio">Github repository</a>
 </footer>
   </div>
 </template>

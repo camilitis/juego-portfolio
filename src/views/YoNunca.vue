@@ -34,7 +34,7 @@
     </template>
 
     <template v-slot:body>
-      <p>Las personas que han hecho en algún momento de su vida lo afirmado en la tarjeta deberán tomar un trago de alcohol.</p>
+      <p>Las personas que han hecho en algún momento de su vida lo afirmado en la tarjeta deberán sumar un punto. El que llega a 10 puntos, pierde.</p>
     </template>
 
   </modal>
